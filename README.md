@@ -77,9 +77,20 @@ I’m open to hands-on analytics, data operations, SQL analysis, reporting, and 
 
 ## Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Omkesh-Bash/Omkesh-Bash/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Omkesh-Bash/Omkesh-Bash/output/github-contribution-grid-snake-dark.svg?palette=github-dark"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Omkesh-Bash/Omkesh-Bash/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Contribution Snake"
+    src="https://raw.githubusercontent.com/Omkesh-Bash/Omkesh-Bash/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ---
 
