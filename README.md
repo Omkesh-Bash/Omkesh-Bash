@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=Data+Engineer+%7C+Analytics+Builder%3B+Python+%7C+SQL+%7C+Pipelines%3B+Turning+raw+data+into+business+insight" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=Data+Engineer+%7C+Analytics+Builder%3B+Python[...]
 </div>
 
 # Omkesh Bhaskar Tidke
@@ -8,7 +8,7 @@
 
 Pune, Maharashtra, India
 
-I build data systems, analytical workflows, and backend-powered pipelines that turn messy, unstructured inputs into reliable business intelligence. My work sits at the intersection of data engineering, SQL analytics, and practical automation.
+I build data systems, analytical workflows, and backend-powered pipelines that turn messy, unstructured inputs into reliable business intelligence. My work sits at the intersection of data enginee[...]
 
 ---
 
@@ -20,7 +20,7 @@ I build data systems, analytical workflows, and backend-powered pipelines that t
 - Focus: Data pipelines, analytics engineering, relational modeling, automation, and insight generation
 - Core value: convert messy inputs into clean, trustworthy, decision-ready output
 
-I enjoy solving real-world data problems where reliability, structure, and clarity matter. From ETL flows and schema design to SQL-driven analysis and business reporting, I aim to build systems that are both technically solid and operationally useful.
+I enjoy solving real-world data problems where reliability, structure, and clarity matter. From ETL flows and schema design to SQL-driven analysis and business reporting, I aim to build systems th[...]
 
 ---
 
@@ -67,11 +67,11 @@ I’m open to hands-on analytics, data operations, SQL analysis, reporting, and 
 ## Featured Work
 
 | Project | Stack | What it does | Business / System Impact |
-|---|---|---|---|
-| **Swasthya Setu** | Python, Gemini 2.5 Flash API, Clinical document parsing, JSON validation | Built a multimodal clinical document ingestion engine that converts unstructured medical records into schema-validated JSON. | Reduces manual documentation overhead and improves healthcare data usability. |
-| **Danny's Diner** | PostgreSQL, CTEs, Window Functions, Relational analysis | Modeled customer cohort spending patterns using advanced SQL logic, including DENSE_RANK and ROW_NUMBER. | Improved understanding of spend trends, retention behavior, and customer segmentation. |
-| **P2P Local Data Transfer Engine (FEP)** | Android, Java, NanoHTTPD, HTTP Byte-Range requests | Designed a zero-dependency LAN file streaming engine that uses custom HTTP range requests for local transfer. | Achieved 40 MB/s throughput for efficient peer-to-peer file sharing. |
-| **ProAzure Pvt. Ltd. (RPA Internship)** | UiPath, ETL workflows, Excel normalization, E-commerce data extraction | Engineered unattended automation workflows for dynamic product data extraction and structured Excel outputs. | Reduced repetitive ETL work and improved data consistency for operational reporting. |
+| |---|---|---|
+| | **Swasthya Setu** | Python, Gemini 2.5 Flash API, Clinical document parsing, JSON validation | Built a multimodal clinical document ingestion engine that converts unstructured medical records in[...]
+| | **Danny's Diner** | PostgreSQL, CTEs, Window Functions, Relational analysis | Modeled customer cohort spending patterns using advanced SQL logic, including DENSE_RANK and ROW_NUMBER. | Improved [...]
+| | **P2P Local Data Transfer Engine (FEP)** | Android, Java, NanoHTTPD, HTTP Byte-Range requests | Designed a zero-dependency LAN file streaming engine that uses custom HTTP range requests for loca[...]
+| | **ProAzure Pvt. Ltd. (RPA Internship)** | UiPath, ETL workflows, Excel normalization, E-commerce data extraction | Engineered unattended automation workflows for dynamic product data extraction [...]
 
 ---
 
@@ -115,7 +115,7 @@ My goal is simple: build data experiences that are useful, scalable, and decisio
 ---
 
 <p align="center">
-  <a href="mailto:omkeshbhaskartidke@gmail.com">
+  <a href="mailto:omkeshtidke596@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/Omkesh-Bash">
