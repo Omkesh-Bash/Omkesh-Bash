@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=Data+Engineer+%7C+Analytics+Builder%3B+Python[...]
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=Data+Engineer+%7C+Analytics+Builder%3B+Python+%7C+SQL+%7C+Automation" alt="Typing SVG" />
 </div>
 
 # Omkesh Bhaskar Tidke
@@ -8,7 +8,7 @@
 
 Pune, Maharashtra, India
 
-I build data systems, analytical workflows, and backend-powered pipelines that turn messy, unstructured inputs into reliable business intelligence. My work sits at the intersection of data enginee[...]
+I build data systems, analytical workflows, and backend-powered pipelines that turn messy, unstructured inputs into reliable business intelligence. My work sits at the intersection of data engineering, analytics, and business decision support.
 
 ---
 
@@ -20,7 +20,7 @@ I build data systems, analytical workflows, and backend-powered pipelines that t
 - Focus: Data pipelines, analytics engineering, relational modeling, automation, and insight generation
 - Core value: convert messy inputs into clean, trustworthy, decision-ready output
 
-I enjoy solving real-world data problems where reliability, structure, and clarity matter. From ETL flows and schema design to SQL-driven analysis and business reporting, I aim to build systems th[...]
+I enjoy solving real-world data problems where reliability, structure, and clarity matter. From ETL flows and schema design to SQL-driven analysis and business reporting, I aim to build systems that turn data into actionable value.
 
 ---
 
@@ -67,11 +67,11 @@ I’m open to hands-on analytics, data operations, SQL analysis, reporting, and 
 ## Featured Work
 
 | Project | Stack | What it does | Business / System Impact |
-| |---|---|---|
-| | **Swasthya Setu** | Python, Gemini 2.5 Flash API, Clinical document parsing, JSON validation | Built a multimodal clinical document ingestion engine that converts unstructured medical records in[...]
-| | **Danny's Diner** | PostgreSQL, CTEs, Window Functions, Relational analysis | Modeled customer cohort spending patterns using advanced SQL logic, including DENSE_RANK and ROW_NUMBER. | Improved [...]
-| | **P2P Local Data Transfer Engine (FEP)** | Android, Java, NanoHTTPD, HTTP Byte-Range requests | Designed a zero-dependency LAN file streaming engine that uses custom HTTP range requests for loca[...]
-| | **ProAzure Pvt. Ltd. (RPA Internship)** | UiPath, ETL workflows, Excel normalization, E-commerce data extraction | Engineered unattended automation workflows for dynamic product data extraction [...]
+|---|---|---|---|
+| Swasthya Setu | Python, Gemini 2.5 Flash API, Clinical document parsing, JSON validation | Built a multimodal clinical document ingestion engine that converts unstructured medical records into structured, query-ready clinical data. | Improved medical record processing reliability and reduced manual data extraction overhead. |
+| Danny's Diner | PostgreSQL, CTEs, Window Functions, Relational analysis | Modeled customer cohort spending patterns using advanced SQL logic, including DENSE_RANK and ROW_NUMBER. | Improved understanding of customer behavior and retention patterns. |
+| P2P Local Data Transfer Engine (FEP) | Android, Java, NanoHTTPD, HTTP Byte-Range requests | Designed a zero-dependency LAN file streaming engine that uses custom HTTP range requests for local transfer. | Enabled fast, direct file sharing without cloud dependency. |
+| ProAzure Pvt. Ltd. (RPA Internship) | UiPath, ETL workflows, Excel normalization, E-commerce data extraction | Engineered unattended automation workflows for dynamic product data extraction and normalization. | Reduced manual effort and sped up operational reporting workflows. |
 
 ---
 
