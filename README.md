@@ -5,7 +5,7 @@
 # Omkesh Bhaskar Tidke
 
 **Computer Engineering Student | Aspiring Data Analyst / Analytics Engineer**  
-Pune, Maharashtra, India · [REDACTED] · [omkeshtidke596@gmail.com](mailto:omkeshtidke596@gmail.com)
+Pune, Maharashtra, India · [omkeshtidke596@gmail.com](mailto:omkeshtidke596@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkesh-tidke/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Omkesh-Bash)
