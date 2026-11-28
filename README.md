@@ -111,23 +111,6 @@ The [LHDC Linux Build](https://github.com/Omkesh-Bash/lhdc-build) is my experime
 
 ## GitHub Activity
 
-## Contribution Snake
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Omkesh-Bash/Omkesh-Bash/output/github-contribution-grid-snake-dark.svg?palette=github-dark"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Omkesh-Bash/Omkesh-Bash/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="Contribution Snake"
-    src="https://raw.githubusercontent.com/Omkesh-Bash/Omkesh-Bash/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omkesh-Bash&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
@@ -136,7 +119,7 @@ The [LHDC Linux Build](https://github.com/Omkesh-Bash/lhdc-build) is my experime
 
 ## Why I Build
 
-I enjoy data problems where structure, logic, and usability matter: cleaning raw records, translating business questions into SQL, designing reliable analytical workflows, reducing manual work, and building insight-ready outputs.
+I enjoy data problems where structure, logic, and usability matter: cleaning raw records, translating business questions into SQL, designing reliable analytical workflows, reducing manual work, and communicating findings clearly.
 
 <p align="center">
   <a href="mailto:omkeshtidke596@gmail.com">
