@@ -1,9 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=pulse&color=0:0F172A,50:1E3A8A,100:0EA5E9&height=140&section=header" alt="Animated pulse banner" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=900&color=2F81F7&center=true&vCenter=true&width=800&lines=Data+Analytics;Python+%26+SQL;Turning+Data+into+Insights" alt="Data analytics, Python and SQL" />
+  <img src="https://capsule-render.vercel.app/api?type=pulse&color=0:0F172A,50:1E3A8A,100:0EA5E9&height=140&section=header&text=Omkesh%20Tidke&fontColor=FFFFFF&fontSize=44&animation=fadeIn" alt="Omkesh Tidke pulse banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=900&color=2F81F7&center=true&vCenter=true&width=800&lines=Data+Analytics;Python+%26+SQL;Turning+Data+into+Decisions;PostgreSQL+%26+BI;Data+Cleaning+%26+ETL" alt="Typing introduction" />
 </div>
-
-# Omkesh Tidke
 
 **Computer Engineering Student | Aspiring Data Analyst / Analytics Engineer**  
 Pune, Maharashtra, India · [omkeshtidke596@gmail.com](mailto:omkeshtidke596@gmail.com)
@@ -12,7 +10,7 @@ Pune, Maharashtra, India · [omkeshtidke596@gmail.com](mailto:omkeshtidke596@gma
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Omkesh-Bash)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/omkeshtidke597/)
 
-I am a Computer Engineering student focused on **data analytics, BI, data cleaning, SQL, and ETL automation**. I build Python data pipelines, relational analytics solutions, interactive dashboards, and reliable backend systems that turn unstructured or messy data into decision-ready insights.
+I am a Computer Engineering student focused on **data analytics, BI, data cleaning, SQL, and ETL automation**. I build Python data pipelines, relational analytics solutions, interactive dashboards, and end-to-end data projects that turn raw data into reliable business insights.
 
 ---
 
@@ -20,7 +18,7 @@ I am a Computer Engineering student focused on **data analytics, BI, data cleani
 
 ### [Pune Real Estate Analytics Dashboard](https://github.com/Omkesh-Bash/pune-real-estate-data-cleaning)
 
-[![Open Dashboard](https://img.shields.io/badge/OPEN_INTERACTIVE_DASHBOARD-Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)](https://datastudio.google.com/reporting/05a8e70b-1d24-484e-b707-717e11fc982d)
+[![Open Dashboard](https://img.shields.io/badge/OPEN_INTERACTIVE_DASHBOARD-Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)](https://datastudio.google.com/reporting/05a8e72a-e07e-4eb1-85bf-24a0ea5ab7be/page/zPsHF)
 [![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Omkesh-Bash/pune-real-estate-data-cleaning)
 
 A complete end-to-end analytics project that cleans and validates Pune property-listing data, builds PostgreSQL analytical views, and presents interactive market insights.
@@ -55,15 +53,15 @@ Preferred areas: Hinjewadi · Baner · PCMC · Pune · Remote
 
 | Project | What I Built | Impact / Highlights | Links |
 |---|---|---|---|
-| **Pune Real Estate Analytics** | End-to-end cleaning, PostgreSQL analysis, and interactive BI dashboard | 927 clean records, 28 analytical columns, locality/price-tier/outlier analysis | [Dashboard](https://datastudio.google.com/reporting/05a8e70b-1d24-484e-b707-717e11fc982d) · [Repository](https://github.com/Omkesh-Bash/pune-real-estate-data-cleaning) |
-| **Swasthya Setu — SIH Prototype** | Multimodal clinical document extraction and schema-validated JSON summaries | 1st Rank at the college-level Smart India Hackathon | [Repository](https://github.com/Omkesh-Bash/MediVault-Release-ByteMe) |
-| **P2P Local Data Transfer Engine** | Zero-dependency LAN/Wi-Fi file streaming using NanoHTTPD and HTTP byte-range routing | Achieved 40 MB/s network-limited throughput | [Project repository](https://github.com/Omkesh-Bash) |
-| **Danny’s Diner — SQL Case Study** | PostgreSQL sales and customer-behavior analysis using CTEs and window functions | Repeat purchases, cohorts, retention, and ranking insights | [SQL Challenge](https://github.com/Omkesh-Bash/8-Week-SQL-Challenge) |
+| **Pune Real Estate Analytics** | End-to-end cleaning, PostgreSQL analysis, and interactive BI dashboard | 927 clean records, 28 analytical columns, locality/price-tier/outlier analysis | [Dashboard](https://datastudio.google.com/reporting/05a8e72a-e07e-4eb1-85bf-24a0ea5ab7be/page/zPsHF) · [Repository](https://github.com/Omkesh-Bash/pune-real-estate-data-cleaning) |
+| **Swasthya Setu — SIH Prototype** | Multimodal clinical document extraction and schema-validated JSON summaries | 1st Rank at the college-level Smart India Hackathon | [Repository](https://github.com/Omkesh-Bash/swasthya-setu) |
+| **P2P Local Data Transfer Engine** | Zero-dependency LAN/Wi-Fi file streaming using NanoHTTPD and HTTP byte-range routing | Achieved 40 MB/s network-limited throughput | [Project repository](https://github.com/Omkesh-Bash/p2p-data-transfer) |
+| **Danny’s Diner — SQL Case Study** | PostgreSQL sales and customer-behavior analysis using CTEs and window functions | Repeat purchases, cohorts, retention, and ranking insights | [SQL Challenge](https://github.com/Omkesh-Bash/dannys-diner-sql-case-study) |
 | **LHDC Linux Build** | Experimental PipeWire/LHDC integration for Linux audio | Reproducible Linux build notes, helpers, and troubleshooting | [Experimental repository](https://github.com/Omkesh-Bash/lhdc-build) |
 
 ### Experimental Build: LHDC Linux
 
-The [LHDC Linux Build](https://github.com/Omkesh-Bash/lhdc-build) is my experimental Linux audio side project: enabling LHDC v5 Bluetooth audio with PipeWire and reproducible notes, patches, and helper scripts. It is deliberately documented as an investigation-style project for other Linux users rather than a finished commercial product.
+The [LHDC Linux Build](https://github.com/Omkesh-Bash/lhdc-build) is my experimental Linux audio side project: enabling LHDC v5 Bluetooth audio with PipeWire and reproducible notes, patches, and help for users running Linux.
 
 ---
 
@@ -73,7 +71,7 @@ The [LHDC Linux Build](https://github.com/Omkesh-Bash/lhdc-build) is my experime
 **July 2024**
 
 - Built an automated ETL and web-data extraction pipeline to track Amazon SKUs, processing 100 records per email trigger and structuring scraped price and review data into Excel outputs.
-- Automated inbound email processing through an unattended UiPath workflow that extracted product metadata and emailed structured insights to customers with minimal manual intervention.
+- Automated inbound email processing using an unattended UiPath workflow that extracted product metadata and emailed structured insights to customers with minimal manual intervention.
 - Strengthened practical experience in data extraction, normalization, workflow automation, and operational data delivery.
 
 ---
@@ -91,7 +89,7 @@ The [LHDC Linux Build](https://github.com/Omkesh-Bash/lhdc-build) is my experime
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numPy&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 
 **Analytics & BI:** Data Cleaning · Data Wrangling · Data Validation · Exploratory Data Analysis · Relational Schema Design · Query Optimization · CTEs · Window Functions · Dashboarding
@@ -128,7 +126,7 @@ The [LHDC Linux Build](https://github.com/Omkesh-Bash/lhdc-build) is my experime
 
 ## Why I Build
 
-I enjoy data problems where structure, logic, and usability matter: cleaning raw records, translating business questions into SQL, designing reliable analytical workflows, reducing manual work, and building insight-ready outputs.
+I enjoy data problems where structure, logic, and usability matter: cleaning raw records, translating business questions into SQL, designing reliable analytical workflows, reducing manual work, and turning analysis into clear decisions.
 
 <p align="center">
   <a href="mailto:omkeshtidke596@gmail.com">
