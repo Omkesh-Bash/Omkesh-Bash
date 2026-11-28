@@ -1,12 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=pulse&color=0:0F172A,50:312E81,100:0EA5E9&height=220&section=header&text=OMKESH%20BHASKAR%20TIDKE&fontSize=34&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20PYTHON%20%7C%20SQL&descSize=16&descAlignY=62" alt="Pulse banner: Omkesh Bhaskar Tidke — Data Analytics, Python, SQL" />
+  <img src="https://capsule-render.vercel.app/api?type=pulse&color=0:0F172A,50:1E3A8A,100:0EA5E9&height=140&section=header" alt="Animated pulse banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=900&color=2F81F7&center=true&vCenter=true&width=800&lines=Data+Analytics;Python+%26+SQL;Turning+Data+into+Insights" alt="Data analytics, Python and SQL" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=Data+Analytics+%7C+Python+%7C+PostgreSQL;Data+Cleaning+%7C+ETL+%7C+Business+Intelligence;Turning+Messy+Data+into+Decision-Ready+Insights" alt="Typing SVG" />
-</div>
-
-# Omkesh Bhaskar Tidke
+# Omkesh Tidke
 
 **Computer Engineering Student | Aspiring Data Analyst / Analytics Engineer**  
 Pune, Maharashtra, India · [omkeshtidke596@gmail.com](mailto:omkeshtidke596@gmail.com)
