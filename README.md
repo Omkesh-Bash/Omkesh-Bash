@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=pulse&color=0:0F172A,50:1E3A8A,100:0EA5E9&height=140&section=header&text=Omkesh%20Tidke&fontColor=FFFFFF&fontSize=44&animation=fadeIn" alt="Omkesh Tidke pulse banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:1E3A8A,100:0EA5E9&height=140&section=header&text=Omkesh%20Tidke&fontColor=FFFFFF&fontSize=44&animation=fadeIn" alt="Omkesh Tidke Venom banner" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=900&color=2F81F7&center=true&vCenter=true&width=800&lines=Data+Analytics;Python+%26+SQL;Turning+Data+into+Decisions;PostgreSQL+%26+BI;Data+Cleaning+%26+ETL" alt="Typing introduction" />
 </div>
 
@@ -143,3 +143,7 @@ I enjoy data problems where structure, logic, and usability matter: cleaning raw
 <p align="center">
   <strong>Actively seeking a 2–6 month Data Analyst / BI / Analytics internship in Pune or remotely.</strong>
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0EA5E9&height=120&section=footer" alt="Waving footer banner" />
+</div>
