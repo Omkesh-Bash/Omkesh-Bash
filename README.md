@@ -9,7 +9,7 @@ Pune, Maharashtra, India · [omkeshtidke596@gmail.com](mailto:omkeshtidke596@gma
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkesh-tidke/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Omkesh-Bash)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Omkesh-Bash/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/omkeshtidke597/)
 
 I am a Computer Engineering student focused on **data analytics, BI, data cleaning, SQL, and ETL automation**. I build Python data pipelines, relational analytics solutions, interactive dashboards, and reliable backend systems that turn unstructured or messy data into decision-ready insights.
 
