@@ -116,7 +116,11 @@ The [LHDC Linux Build](https://github.com/Omkesh-Bash/lhdc-build) is my experime
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Omkesh-Bash/Omkesh-Bash/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omkesh-Bash/Omkesh-Bash/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Omkesh-Bash/Omkesh-Bash/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/Omkesh-Bash/Omkesh-Bash/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
+  </picture>
 </p>
 
 ---
